@@ -225,14 +225,19 @@ https://jesusqaenginner.github.io/Paylocity_Benefits_Dashboard-API_Automation-Po
 
 # 🚀 CI/CD Readiness
 
-This project supports automated execution through CI pipelines.
+## 🌐 Example Report
 
-Capabilities include:
+Below is a sample Newman execution report generated from the automated test run.
 
-* GitHub Actions compatibility
-* Headless CLI execution
-* Version-controlled API validation
-* Pipeline-based automated testing
+![Newman Report](docs/screenshots/newman-report.png)
+
+The report includes:
+
+- Request execution summary
+- Pass/Fail assertions
+- Response metrics
+- Request and response inspection
+- Visual dashboard of the test run
 
 ---
 
