@@ -11,6 +11,7 @@ These images help illustrate configuration setup and execution reporting.
 ## 📁 Contents
 
 ### `collection-variables.png`
+
 Shows the Postman collection variables used for deterministic execution, including:
 
 - `baseUrl`
@@ -19,6 +20,7 @@ Shows the Postman collection variables used for deterministic execution, includi
 - `employeeId`
 
 ### `newman-report.png`
+
 Shows the generated Newman HTML execution report used as proof of automated test execution.
 
 ---
